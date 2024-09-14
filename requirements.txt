@@ -1,5 +1,6 @@
-keras
-numpy
-streamlit
-opencv_python_headless
-tensorflow
+streamlit==1.20.0
+numpy==1.23.4
+opencv-python==4.6.0.66
+torch==2.0.1
+torchvision==0.15.2
+Pillow==9.4.0
